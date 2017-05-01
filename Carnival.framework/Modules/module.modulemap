@@ -1,5 +1,5 @@
 framework module Carnival {
-  umbrella header "Carnival-umbrella.h"
+  umbrella header "Carnival.h"
 
   export *
   module * { export * }
